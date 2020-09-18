@@ -1,0 +1,8 @@
+replicas: 1
+zookeeper:
+  enabled: false
+  url: zookeeper.zookeeper.svc.cluster.local
+# external:
+#   enabled: true
+#   type: LoadBalancer
+#   domain: kubernetes.localhost
