@@ -1,0 +1,5 @@
+# Hosts from github:eyjohn/docker-kubernetes (copied manually)
+127.0.0.1 jaeger.kubernetes.localhost
+127.0.0.1 kafka-0.kafka-headless.kafka.svc.cluster.local
+127.0.0.1 gowebsockettest.kubernetes.localhost
+# End of section
